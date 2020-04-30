@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Raju Lamsal",
+      "email": "hacker@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "subash Lamsal",
+      "email": "hack@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Rajua Lamsal",
+      "email": "hacker@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Raju Lamal",
+      "email": "hker@gmail.com"
+    }
+  ]
+}
